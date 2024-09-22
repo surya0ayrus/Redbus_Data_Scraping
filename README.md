@@ -42,7 +42,3 @@ The application employs Streamlit to create an interactive platform akin to Redb
 
 ## Conclusion
 The Redbus Data Scraping and Filtering with Streamlit Application is a powerful tool for anyone in the transportation sector looking to harness the potential of data. By automating the collection and visualization of bus travel information, this project not only facilitates better decision-making but also contributes to improved operational efficiency.
-
----
-
-For more details, contributions, or issues, feel free to open an issue or submit a pull request!
